@@ -1,1 +1,1 @@
-The HTML documentation for a personal website hosted on GitHub.
+The HTML documentation for a personal/professional website hosted on GitHub.
